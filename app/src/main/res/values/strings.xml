@@ -3,4 +3,11 @@
     <string name="etHintTask">Enter a task</string>
     <string name="btnAdd">ADD</string>
     <string name="btnClear">CLEAR</string>
+    <string name="btnDelete">DELETE</string>
+    <string-array name="spinnerItems">
+        <item>Add a new task</item>
+        <item>Remove a task</item>
+    </string-array>
+    <string name="addHint">Type in a new task</string>
+    <string name="removeHint">Type in the index of task to be removed</string>
 </resources>
